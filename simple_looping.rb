@@ -33,7 +33,7 @@ end
 
 def while_iterator(number_of_times)
    time=0
- while time<number_of_times do
+ while time<number_of_times 
  puts "Welcome to Flatiron School's Web Development Course!"
   time += 1 
  end
