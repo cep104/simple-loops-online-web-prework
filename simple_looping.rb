@@ -32,10 +32,10 @@ end
 
 
 def while_iterator(number_of_times)
- counter = 0
- while counter < number_of_times do
+  time = 0
+ while time < number_of_times do
  puts ="Welcome to Flatiron School's Web Development Course!"
-  counter += 1 
+  time += 1 
  end
 end
 
